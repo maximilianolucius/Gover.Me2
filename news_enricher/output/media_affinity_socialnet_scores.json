@@ -1,0 +1,284 @@
+{
+  "7d": {
+    "TurismoAND": {
+      "affinity": 88,
+      "reach": 50
+    },
+    "InteriorJunta": {
+      "affinity": 94,
+      "reach": 28
+    },
+    "saludand": {
+      "affinity": 89,
+      "reach": 72
+    },
+    "E112Andalucia": {
+      "affinity": 72,
+      "reach": 62
+    },
+    "viveandalucia": {
+      "affinity": 96,
+      "reach": 76
+    },
+    "andalucianet": {
+      "affinity": 91,
+      "reach": 50
+    },
+    "Arturo_BernalB": {
+      "affinity": 79,
+      "reach": 20
+    },
+    "antoniosanz": {
+      "affinity": 90,
+      "reach": 43
+    },
+    "JuanMa_Moreno": {
+      "affinity": 98,
+      "reach": 86
+    },
+    "angelesferriz": {
+      "affinity": 24,
+      "reach": 37
+    },
+    "_JuanEspadas": {
+      "affinity": 29,
+      "reach": 57
+    },
+    "canalsur": {
+      "affinity": 78,
+      "reach": 78
+    },
+    "EPAndalucia": {
+      "affinity": 62,
+      "reach": 56
+    },
+    "abcdesevilla": {
+      "affinity": 82,
+      "reach": 92
+    },
+    "diariosevilla": {
+      "affinity": 82,
+      "reach": 88
+    },
+    "FranPineroR": {
+      "affinity": 82,
+      "reach": 52
+    },
+    "AndaluciaTB": {
+      "affinity": 71,
+      "reach": 42
+    },
+    "TurismoAndaluz": {
+      "affinity": 88,
+      "reach": 54
+    },
+    "tormentayrayos": {
+      "affinity": 70,
+      "reach": 42
+    },
+    "Plan_INFOCA": {
+      "affinity": 72,
+      "reach": 75
+    },
+    "AEMET_Andalucia": {
+      "affinity": 69,
+      "reach": 71
+    },
+    "CruzRojaAND": {
+      "affinity": 47,
+      "reach": 47
+    },
+    "EmergenciasSev": {
+      "affinity": 72,
+      "reach": 77
+    }
+  },
+  "30d": {
+    "TurismoAND": {
+      "affinity": 91,
+      "reach": 53
+    },
+    "InteriorJunta": {
+      "affinity": 92,
+      "reach": 27
+    },
+    "saludand": {
+      "affinity": 85,
+      "reach": 69
+    },
+    "E112Andalucia": {
+      "affinity": 68,
+      "reach": 59
+    },
+    "viveandalucia": {
+      "affinity": 94,
+      "reach": 73
+    },
+    "andalucianet": {
+      "affinity": 87,
+      "reach": 47
+    },
+    "Arturo_BernalB": {
+      "affinity": 83,
+      "reach": 23
+    },
+    "antoniosanz": {
+      "affinity": 94,
+      "reach": 46
+    },
+    "JuanMa_Moreno": {
+      "affinity": 96,
+      "reach": 83
+    },
+    "angelesferriz": {
+      "affinity": 20,
+      "reach": 33
+    },
+    "_JuanEspadas": {
+      "affinity": 25,
+      "reach": 53
+    },
+    "canalsur": {
+      "affinity": 74,
+      "reach": 75
+    },
+    "EPAndalucia": {
+      "affinity": 58,
+      "reach": 52
+    },
+    "abcdesevilla": {
+      "affinity": 78,
+      "reach": 89
+    },
+    "diariosevilla": {
+      "affinity": 78,
+      "reach": 85
+    },
+    "FranPineroR": {
+      "affinity": 78,
+      "reach": 49
+    },
+    "AndaluciaTB": {
+      "affinity": 67,
+      "reach": 39
+    },
+    "TurismoAndaluz": {
+      "affinity": 84,
+      "reach": 51
+    },
+    "tormentayrayos": {
+      "affinity": 66,
+      "reach": 39
+    },
+    "Plan_INFOCA": {
+      "affinity": 68,
+      "reach": 72
+    },
+    "AEMET_Andalucia": {
+      "affinity": 65,
+      "reach": 68
+    },
+    "CruzRojaAND": {
+      "affinity": 43,
+      "reach": 44
+    },
+    "EmergenciasSev": {
+      "affinity": 68,
+      "reach": 74
+    }
+  },
+  "90d": {
+    "TurismoAND": {
+      "affinity": 90,
+      "reach": 52
+    },
+    "InteriorJunta": {
+      "affinity": 93,
+      "reach": 28
+    },
+    "saludand": {
+      "affinity": 87,
+      "reach": 70
+    },
+    "E112Andalucia": {
+      "affinity": 70,
+      "reach": 60
+    },
+    "viveandalucia": {
+      "affinity": 95,
+      "reach": 74
+    },
+    "andalucianet": {
+      "affinity": 89,
+      "reach": 48
+    },
+    "Arturo_BernalB": {
+      "affinity": 81,
+      "reach": 22
+    },
+    "antoniosanz": {
+      "affinity": 92,
+      "reach": 45
+    },
+    "JuanMa_Moreno": {
+      "affinity": 97,
+      "reach": 84
+    },
+    "angelesferriz": {
+      "affinity": 22,
+      "reach": 35
+    },
+    "_JuanEspadas": {
+      "affinity": 27,
+      "reach": 55
+    },
+    "canalsur": {
+      "affinity": 76,
+      "reach": 76
+    },
+    "EPAndalucia": {
+      "affinity": 60,
+      "reach": 54
+    },
+    "abcdesevilla": {
+      "affinity": 80,
+      "reach": 90
+    },
+    "diariosevilla": {
+      "affinity": 80,
+      "reach": 86
+    },
+    "FranPineroR": {
+      "affinity": 80,
+      "reach": 50
+    },
+    "AndaluciaTB": {
+      "affinity": 69,
+      "reach": 40
+    },
+    "TurismoAndaluz": {
+      "affinity": 86,
+      "reach": 52
+    },
+    "tormentayrayos": {
+      "affinity": 68,
+      "reach": 40
+    },
+    "Plan_INFOCA": {
+      "affinity": 70,
+      "reach": 73
+    },
+    "AEMET_Andalucia": {
+      "affinity": 67,
+      "reach": 69
+    },
+    "CruzRojaAND": {
+      "affinity": 45,
+      "reach": 45
+    },
+    "EmergenciasSev": {
+      "affinity": 70,
+      "reach": 75
+    }
+  }
+}

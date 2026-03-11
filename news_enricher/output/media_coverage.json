@@ -1,0 +1,188 @@
+{
+  "7d": [
+    {
+      "key": "vivienda",
+      "label": "Vivienda",
+      "counts": {
+        "positive": 40,
+        "neutral": 9,
+        "negative": 13
+      },
+      "total": 62
+    },
+    {
+      "key": "economia",
+      "label": "Economía",
+      "counts": {
+        "positive": 750,
+        "neutral": 335,
+        "negative": 300
+      },
+      "total": 1385
+    },
+    {
+      "key": "sanidad",
+      "label": "Sanidad",
+      "counts": {
+        "positive": 95,
+        "neutral": 48,
+        "negative": 103
+      },
+      "total": 246
+    },
+    {
+      "key": "seguridad",
+      "label": "Seguridad",
+      "counts": {
+        "positive": 46,
+        "neutral": 67,
+        "negative": 252
+      },
+      "total": 365
+    },
+    {
+      "key": "educacion",
+      "label": "Educación",
+      "counts": {
+        "positive": 63,
+        "neutral": 11,
+        "negative": 19
+      },
+      "total": 93
+    },
+    {
+      "key": "transporte",
+      "label": "Transporte",
+      "counts": {
+        "positive": 75,
+        "neutral": 34,
+        "negative": 37
+      },
+      "total": 146
+    }
+  ],
+  "30d": [
+    {
+      "key": "vivienda",
+      "label": "Vivienda",
+      "counts": {
+        "positive": 129,
+        "neutral": 50,
+        "negative": 39
+      },
+      "total": 218
+    },
+    {
+      "key": "economia",
+      "label": "Economía",
+      "counts": {
+        "positive": 2587,
+        "neutral": 1351,
+        "negative": 1283
+      },
+      "total": 5221
+    },
+    {
+      "key": "sanidad",
+      "label": "Sanidad",
+      "counts": {
+        "positive": 357,
+        "neutral": 160,
+        "negative": 291
+      },
+      "total": 808
+    },
+    {
+      "key": "seguridad",
+      "label": "Seguridad",
+      "counts": {
+        "positive": 120,
+        "neutral": 217,
+        "negative": 1212
+      },
+      "total": 1549
+    },
+    {
+      "key": "educacion",
+      "label": "Educación",
+      "counts": {
+        "positive": 292,
+        "neutral": 72,
+        "negative": 98
+      },
+      "total": 462
+    },
+    {
+      "key": "transporte",
+      "label": "Transporte",
+      "counts": {
+        "positive": 274,
+        "neutral": 112,
+        "negative": 162
+      },
+      "total": 548
+    }
+  ],
+  "90d": [
+    {
+      "key": "vivienda",
+      "label": "Vivienda",
+      "counts": {
+        "positive": 177,
+        "neutral": 64,
+        "negative": 58
+      },
+      "total": 299
+    },
+    {
+      "key": "economia",
+      "label": "Economía",
+      "counts": {
+        "positive": 3758,
+        "neutral": 1970,
+        "negative": 1891
+      },
+      "total": 7619
+    },
+    {
+      "key": "sanidad",
+      "label": "Sanidad",
+      "counts": {
+        "positive": 489,
+        "neutral": 250,
+        "negative": 427
+      },
+      "total": 1166
+    },
+    {
+      "key": "seguridad",
+      "label": "Seguridad",
+      "counts": {
+        "positive": 182,
+        "neutral": 310,
+        "negative": 1726
+      },
+      "total": 2218
+    },
+    {
+      "key": "educacion",
+      "label": "Educación",
+      "counts": {
+        "positive": 416,
+        "neutral": 97,
+        "negative": 130
+      },
+      "total": 643
+    },
+    {
+      "key": "transporte",
+      "label": "Transporte",
+      "counts": {
+        "positive": 384,
+        "neutral": 176,
+        "negative": 228
+      },
+      "total": 788
+    }
+  ]
+}

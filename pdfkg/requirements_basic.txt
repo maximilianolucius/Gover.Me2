@@ -1,0 +1,10 @@
+# Minimum third-party dependencies required by the project
+python-dotenv>=1.0.0
+google-generativeai>=0.3.0
+pyarango>=2.0.0
+openpyxl>=3.1.0
+pandas>=2.0.0
+gradio>=4.0.0
+plotly>=5.0.0
+tqdm>=4.65.0
+pdfplumber>=0.10.0

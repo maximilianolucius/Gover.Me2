@@ -1,0 +1,252 @@
+{
+  "7d": {
+    "Elcorreoweb": {
+      "affinity": 20.2,
+      "reach": 0.6
+    },
+    "Diariodesevilla": {
+      "affinity": 28.5,
+      "reach": 42.6
+    },
+    "Diario SUR": {
+      "affinity": 82.0,
+      "reach": 40.2
+    },
+    "Ideal": {
+      "affinity": 82.5,
+      "reach": 4.1
+    },
+    "ABC Sevilla": {
+      "affinity": 92.3,
+      "reach": 9.6
+    },
+    "Eldiario": {
+      "affinity": 29.1,
+      "reach": 0.35
+    },
+    "ABC": {
+      "affinity": 40.6,
+      "reach": 4.6
+    },
+    "El País": {
+      "affinity": 18.5,
+      "reach": 52.3
+    },
+    "Burgosconecta": {
+      "affinity": 40.0,
+      "reach": 0.1
+    },
+    "Hoy": {
+      "affinity": 55.0,
+      "reach": 0.1
+    },
+    "Leonoticias": {
+      "affinity": 62.5,
+      "reach": 0.1
+    },
+    "Elnortedecastilla": {
+      "affinity": 33.3,
+      "reach": 0.1
+    },
+    "Huelva24": {
+      "affinity": 53.3,
+      "reach": 0.1
+    },
+    "Lavozdigital": {
+      "affinity": 55.0,
+      "reach": 0.1
+    },
+    "Laverdad": {
+      "affinity": 0.0,
+      "reach": 0.0
+    },
+    "Lasprovincias": {
+      "affinity": 65.0,
+      "reach": 0.0
+    },
+    "Larioja": {
+      "affinity": 25.0,
+      "reach": 0.0
+    }
+  },
+  "30d": {
+    "Diario SUR": {
+      "affinity": 78.5,
+      "reach": 37.2
+    },
+    "Diariodesevilla": {
+      "affinity": 32.0,
+      "reach": 36.2
+    },
+    "ABC Sevilla": {
+      "affinity": 88.4,
+      "reach": 9.4
+    },
+    "El País": {
+      "affinity": 22.1,
+      "reach": 57.5
+    },
+    "Ideal": {
+      "affinity": 88.5,
+      "reach": 4.1
+    },
+    "ABC": {
+      "affinity": 37.2,
+      "reach": 4.0
+    },
+    "Elcorreoweb": {
+      "affinity": 27.2,
+      "reach": 0.6
+    },
+    "Eldiario": {
+      "affinity": 25.1,
+      "reach": 0.4
+    },
+    "Burgosconecta": {
+      "affinity": 45.0,
+      "reach": 0.1
+    },
+    "Hoy": {
+      "affinity": 46.4,
+      "reach": 0.1
+    },
+    "Elnortedecastilla": {
+      "affinity": 41.2,
+      "reach": 0.1
+    },
+    "Huelva24": {
+      "affinity": 54.5,
+      "reach": 0.1
+    },
+    "Laverdad": {
+      "affinity": 22.1,
+      "reach": 0.1
+    },
+    "Leonoticias": {
+      "affinity": 48.3,
+      "reach": 0.1
+    },
+    "Lavozdigital": {
+      "affinity": 61.2,
+      "reach": 0.1
+    },
+    "New22-www.ideal": {
+      "affinity": 60.0,
+      "reach": 0.0
+    },
+    "Salamancahoy": {
+      "affinity": 43.8,
+      "reach": 0.0
+    },
+    "Elcomercio": {
+      "affinity": 75.0,
+      "reach": 0.0
+    },
+    "Eldiariomontanes": {
+      "affinity": 25.0,
+      "reach": 0.0
+    },
+    "Diariovasco": {
+      "affinity": 75.0,
+      "reach": 0.0
+    },
+    "Lasprovincias": {
+      "affinity": 31.2,
+      "reach": 0.0
+    },
+    "Larioja": {
+      "affinity": 12.5,
+      "reach": 0.0
+    }
+  },
+  "90d": {
+    "Diariodesevilla": {
+      "affinity": 30.0,
+      "reach": 41.4
+    },
+    "Diario SUR": {
+      "affinity": 80.0,
+      "reach": 33.0
+    },
+    "El País": {
+      "affinity": 20.0,
+      "reach": 52.6
+    },
+    "ABC Sevilla": {
+      "affinity": 90.0,
+      "reach": 7.4
+    },
+    "Ideal": {
+      "affinity": 84.0,
+      "reach": 4.8
+    },
+    "ABC": {
+      "affinity": 36.5,
+      "reach": 2.9
+    },
+    "Eldiario": {
+      "affinity": 22.0,
+      "reach": 1.5
+    },
+    "New22-www.ideal": {
+      "affinity": 43.3,
+      "reach": 0.1
+    },
+    "Burgosconecta": {
+      "affinity": 45.0,
+      "reach": 0.1
+    },
+    "Hoy": {
+      "affinity": 46.4,
+      "reach": 0.1
+    },
+    "Elnortedecastilla": {
+      "affinity": 41.2,
+      "reach": 0.1
+    },
+    "Huelva24": {
+      "affinity": 54.5,
+      "reach": 0.1
+    },
+    "Laverdad": {
+      "affinity": 22.1,
+      "reach": 0.1
+    },
+    "Leonoticias": {
+      "affinity": 48.3,
+      "reach": 0.1
+    },
+    "Lavozdigital": {
+      "affinity": 61.2,
+      "reach": 0.1
+    },
+    "Lasprovincias": {
+      "affinity": 29.0,
+      "reach": 0.0
+    },
+    "Salamancahoy": {
+      "affinity": 43.8,
+      "reach": 0.0
+    },
+    "Elcomercio": {
+      "affinity": 75.0,
+      "reach": 0.0
+    },
+    "Eldiariomontanes": {
+      "affinity": 12.5,
+      "reach": 0.0
+    },
+    "Diariovasco": {
+      "affinity": 75.0,
+      "reach": 0.0
+    },
+    "Elcorreoweb": {
+      "affinity": 29.2,
+      "reach": 0.6
+    },
+    "Larioja": {
+      "affinity": 12.5,
+      "reach": 0.0
+    }
+  }
+}
