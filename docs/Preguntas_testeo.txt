@@ -1,0 +1,31 @@
+TURISMO — Preguntas fáciles (datos directos)
+
+¿Cuántos turistas franceses vinieron en abril de 2025 a Andalucía?
+¿Cuántos turistas extranjeros de la Unión Europea han venido hasta lo que llevamos de datos de 2025?
+¿Cuántas pernoctaciones en hoteles hubo en enero de 2025?
+¿Cuál fue el país con mayor número de turistas extranjeros que visitaron Andalucía en marzo de 2025?
+¿Cuál fue la media de gasto por turista internacional en Andalucía en el mes de abril de 2025?
+
+TURISMO — Preguntas difíciles (con transformación o comparación numérica)
+
+Compárame el número de turistas de la Unión Europea que han venido en el primer trimestre de 2025 con respecto al primer trimestre de 2024.
+Si no contamos los turistas franceses ni ingleses, ¿cuántos turistas de la Unión Europea han venido en 2025?
+¿Cuántas pernoctaciones de turistas franceses ha habido en el segundo trimestre de 2025 versus el de 2024?
+¿Cuál ha sido la variación porcentual del gasto medio por turista internacional entre 2024 y 2025?
+¿Qué porcentaje del total de turistas en Andalucía en el primer semestre de 2025 proviene de fuera de la Unión Europea?
+
+HEMEROTECA — Preguntas fáciles
+
+Dime las últimas noticias que traten casos de corrupción del PSOE.
+Dime las últimas noticias sobre eventos culturales en la región de Sevilla.
+Dime las últimas noticias que incluyan temas de turismo y vivienda.
+Dime las últimas noticias que incluyan temas de conciertos y festivales de música.
+Dime las últimas noticias sobre la Comic-Con.
+
+HEMEROTECA — Preguntas difíciles
+
+Dame noticias que tengan que ver con la corrupción del Partido Socialista y mencionen a Begoña Gómez.
+Dame noticias que hablen de la Comic-Con y tengan un tono positivo sobre la experiencia del usuario.
+Dame noticias que hablen de la Comic-Con y tengan un tono negativo sobre la experiencia del usuario.
+Dame noticias que apoyen que el turismo es bueno para la vivienda.
+Dame las noticias más relevantes en materia de incendios que destaquen una buena gestión del gobierno de Andalucía respecto a esa materia.
